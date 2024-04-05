@@ -19,4 +19,3 @@ Labeling: All these images are labeled as "nonefire" to indicate that they do no
 <H3 >Link dataset: https://www.kaggle.com/datasets/phylake1337/fire-dataset </H2>
 
 
-
