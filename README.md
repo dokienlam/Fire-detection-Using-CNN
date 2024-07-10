@@ -17,7 +17,7 @@ Characteristics: These images may depict natural landscapes, urban scenes, or an
 Labeling: All these images are labeled as "nonefire" to indicate that they do not contain fire.
 
 <H3 >Link test dataset: https://www.kaggle.com/datasets/phylake1337/fire-dataset </H3>
-<H3 >Link test dataset: https://www.kaggle.com/datasets/phylake1337/fire-dataset </H3>
+<H3 >Link test dataset: https://www.kaggle.com/datasets/lamdo2k3/fire-train-dataset </H3>
 
 
 
