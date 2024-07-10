@@ -16,6 +16,9 @@ Quantity: There are a total of 244 images without fire.
 Characteristics: These images may depict natural landscapes, urban scenes, or any images unrelated to fire.
 Labeling: All these images are labeled as "nonefire" to indicate that they do not contain fire.
 
-<H3 >Link dataset: https://www.kaggle.com/datasets/phylake1337/fire-dataset </H2>
+<H3 >Link test dataset: https://www.kaggle.com/datasets/phylake1337/fire-dataset </H3>
+<H3 >Link test dataset: https://www.kaggle.com/datasets/phylake1337/fire-dataset </H3>
+
+
 
 
